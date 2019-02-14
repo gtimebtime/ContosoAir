@@ -1,5 +1,6 @@
 
 
+[![Build Status](https://dev.azure.com/ohleedevops/ohlee/_apis/build/status/gtimebtime.ContosoAir?branchName=master)](https://dev.azure.com/ohleedevops/ohlee/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
